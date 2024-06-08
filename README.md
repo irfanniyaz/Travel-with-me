@@ -16,10 +16,10 @@ Phone Number:
 +60 11-1009 7323
 
 package that we have:
- pinang island package
- kota kinabalu package
- kuching package
- langkawi package
+ pinang island package-RM 643
+ kota kinabalu package-RM 844
+ kuching package-RM 842
+ langkawi package-RM 408
 *just for 2 guest
 family package(not available)
  
