@@ -29,7 +29,7 @@ family package(not available)
  kuching
  langkawi
 
-flight fees to:
+Tickets flight fees to:
 pinang island-RM 73
 kota kinabalu-RM 270
 kuching-RM 213
